@@ -1,0 +1,7 @@
+{
+    "workbench.editor.defaultBinaryEditor": "jsProfileVisualizer.cpuprofile.table",
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "window.density.editorTabHeight": "default"
+}
